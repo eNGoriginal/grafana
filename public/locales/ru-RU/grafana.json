@@ -17,8 +17,8 @@
     "section": {
       "actions": "Actions",
       "dashboard-search-results": "Dashboards",
-      "folder-search-results": "Folders",
-      "pages": "Pages",
+      "folder-search-results": "Папки",
+      "pages": "Страницы",
       "preferences": "Preferences",
       "recent-dashboards": "Recent dashboards"
     }
@@ -27,7 +27,7 @@
     "locale": {
       "default": "Default"
     },
-    "save": "Save"
+    "save": "Сохранить"
   },
   "dashboard": {
     "add-menu": {
@@ -49,9 +49,9 @@
     },
     "inspect": {
       "data-tab": "Data",
-      "error-tab": "Error",
+      "error-tab": "Ошибка",
       "json-tab": "JSON",
-      "meta-tab": "Meta Data",
+      "meta-tab": "Метаданные",
       "query-tab": "Query",
       "stats-tab": "Stats",
       "subtitle": "{{queryCount}} queries with total query time of {{formatted}}",
