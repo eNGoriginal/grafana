@@ -2,14 +2,14 @@
   "_comment": "Do not manually edit this file, or update these source phrases in Crowdin. The source of truth for English strings are in the code source",
   "clipboard-button": {
     "inline-toast": {
-      "success": "Copied"
+      "success": "Скопировано"
     }
   },
   "command-palette": {
     "action": {
-      "change-theme": "Change theme...",
-      "dark-theme": "Dark",
-      "light-theme": "Light"
+      "change-theme": "Изменить тему...",
+      "dark-theme": "Тёмная",
+      "light-theme": "Светлая"
     },
     "search-box": {
       "placeholder": "Search or jump to..."
@@ -17,8 +17,8 @@
     "section": {
       "actions": "Actions",
       "dashboard-search-results": "Dashboards",
-      "folder-search-results": "Folders",
-      "pages": "Pages",
+      "folder-search-results": "Папки",
+      "pages": "Страницы",
       "preferences": "Preferences",
       "recent-dashboards": "Recent dashboards"
     }
@@ -27,7 +27,7 @@
     "locale": {
       "default": "Default"
     },
-    "save": "Save"
+    "save": "Сохранить"
   },
   "dashboard": {
     "add-menu": {
@@ -49,9 +49,9 @@
     },
     "inspect": {
       "data-tab": "Data",
-      "error-tab": "Error",
+      "error-tab": "Ошибка",
       "json-tab": "JSON",
-      "meta-tab": "Meta Data",
+      "meta-tab": "Метаданные",
       "query-tab": "Query",
       "stats-tab": "Stats",
       "subtitle": "{{queryCount}} queries with total query time of {{formatted}}",
@@ -121,7 +121,7 @@
     "preferred": "Connect your preferred data source:",
     "sampleData": "Or set up a new dashboard with sample data",
     "viewAll": "View all",
-    "welcome": "Welcome to Grafana dashboards!"
+    "welcome": "Добро пожаловать в CCS BPMon!"
   },
   "folder-picker": {
     "loading": "Loading folders..."
