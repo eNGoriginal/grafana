@@ -433,7 +433,7 @@
       "datasource-header": "Data source",
       "location-header": "Location",
       "name-header": "Name",
-      "tags-header": "Tags",
+      "tags-header": "Теги",
       "type-dashboard": "Dashboard",
       "type-folder": "Folder",
       "type-header": "Type"
@@ -541,9 +541,9 @@
     "title": "Preferences"
   },
   "tag-filter": {
-    "loading": "Loading...",
-    "no-tags": "No tags found",
-    "placeholder": "Filter by tag"
+    "loading": "Загрузка...",
+    "no-tags": "Теги не найдены",
+    "placeholder": "Фильтр по тегу"
   },
   "time-picker": {
     "absolute": {
