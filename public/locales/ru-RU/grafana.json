@@ -12,10 +12,10 @@
       "light-theme": "Светлая"
     },
     "search-box": {
-      "placeholder": "Search or jump to..."
+      "placeholder": "Искать или перейти к..."
     },
     "section": {
-      "actions": "Actions",
+      "actions": "Действия",
       "dashboard-search-results": "Dashboards",
       "folder-search-results": "Папки",
       "pages": "Страницы",
@@ -25,7 +25,7 @@
   },
   "common": {
     "locale": {
-      "default": "Default"
+      "default": "По умолчанию"
     },
     "save": "Сохранить"
   },
@@ -34,7 +34,7 @@
       "import": "Import from library",
       "paste-panel": "Paste panel",
       "row": "Row",
-      "visualization": "Visualization"
+      "visualization": "Визуализация"
     },
     "empty": {
       "add-import-body": "Import visualizations that are shared with other dashboards.",
@@ -48,7 +48,7 @@
       "add-visualization-header": "Start your new dashboard by adding a visualization"
     },
     "inspect": {
-      "data-tab": "Data",
+      "data-tab": "Данные",
       "error-tab": "Ошибка",
       "json-tab": "JSON",
       "meta-tab": "Метаданные",
@@ -433,7 +433,7 @@
       "datasource-header": "Data source",
       "location-header": "Location",
       "name-header": "Name",
-      "tags-header": "Tags",
+      "tags-header": "Теги",
       "type-dashboard": "Dashboard",
       "type-folder": "Folder",
       "type-header": "Type"
@@ -541,9 +541,9 @@
     "title": "Preferences"
   },
   "tag-filter": {
-    "loading": "Loading...",
-    "no-tags": "No tags found",
-    "placeholder": "Filter by tag"
+    "loading": "Загрузка...",
+    "no-tags": "Теги не найдены",
+    "placeholder": "Фильтр по тегу"
   },
   "time-picker": {
     "absolute": {
